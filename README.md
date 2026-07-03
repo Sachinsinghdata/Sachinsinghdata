@@ -9,8 +9,10 @@ Excel
 Power BI
 SQL
 Python
+
 📂 What You'll Find on My GitHub
 Projects and practice work as I build my skills in data analytics — from data cleaning and analysis to dashboards and reports.
+
 📫 Reach Me
-LinkedIn: Sachin Singh
+LinkedIn: www.linkedin.com/in/sachin-singh7081
 Email: sachin819sing@gmail.com
