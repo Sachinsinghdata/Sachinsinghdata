@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there, I'm Sachin Singh 👋
 
-<!--
-**Sachinsinghdata/Sachinsinghdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | Learning Data Analytics
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👤 About Me
+I'm currently learning Data Analytics, building a strong foundation in tools and techniques used to analyze, visualize, and derive insights from data.
+🌱 Currently Learning
+Excel
+Power BI
+SQL
+Python
+📂 What You'll Find on My GitHub
+Projects and practice work as I build my skills in data analytics — from data cleaning and analysis to dashboards and reports.
+📫 Reach Me
+LinkedIn: Sachin Singh
+Email: sachin819sing@gmail.com
