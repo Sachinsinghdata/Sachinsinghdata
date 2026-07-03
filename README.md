@@ -14,5 +14,5 @@ Excel · Power BI · SQL · Python
 Projects and practice work as I build my skills in data analytics — from data cleaning and analysis to dashboards and reports.
 
 📫 Reach Me
-LinkedIn: Sachin Singh 🔗
-Email: sachin819sing@gmail.com
+- *LinkedIn:* [Sachin Singh](https://www.linkedin.com/in/sachin-singh7081)
+- *Email:* [sachin819sing@gmail.com](mailto:sachin819sing@gmail.com)
